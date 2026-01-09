@@ -16,12 +16,11 @@ I built this because I was tired of doing this manually while maintaining my own
 ## Features
 
 - Detects missing translations across all locales and fills them with one click  
-- Automatically translates new strings (optional / toggleable)  
 - Preserves placeholders and HTML formatting  
 - Supports protected keys and project-specific context  
 - Writes directly to your project files (no copy/paste)  
 - Dark / light mode 🌙☀️
- String review UI (coming soon)
+- Auto-translate new strings (coming soon)  
 - Plural resources (`<plurals>`) support (coming soon)
 - Option to keep translated strings within ±10% of the original length (coming soon)
 
@@ -31,12 +30,11 @@ I built this because I was tired of doing this manually while maintaining my own
 - Spellchecks (coming soon)
 
 
-<img width="989" height="989" alt="1" src="https://github.com/user-attachments/assets/4841bab0-bf36-4ccb-9783-d36967e91cb2" />
+<img width="1281" height="1462" alt="translating" src="https://github.com/user-attachments/assets/0b849f0f-696c-4885-adcc-9a5c9d58c55a" />
 
-<img width="989" height="989" alt="2" src="https://github.com/user-attachments/assets/42cf1d32-292c-4de0-a3d6-60955b6c1cb8" />
+
+<img width="1281" height="1462" alt="changed" src="https://github.com/user-attachments/assets/b3ba11f9-0c8a-43f5-81e2-fe03ca5cb49c" />
 ^^ Easily update translations when you modify existing strings
-
-
 
 
 ---
